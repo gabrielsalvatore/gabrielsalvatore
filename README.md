@@ -24,4 +24,4 @@ AWS, Azure, Docker, Kubernetes, PostgreSQL, MongoDB
 
 [LinkedIn](https://linkedin.com/in/gabriel-saccoccio) · contact.gabrielsaccoccio@gmail.com
 
-Portuguese, English, Spanish, some Italian.
+Portuguese, English, Spanish, Italian.
