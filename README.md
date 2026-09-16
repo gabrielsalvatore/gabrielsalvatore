@@ -4,8 +4,6 @@ CS and Economics at Allegheny College, graduating May 2027. Brazilian, based in 
 
 Two summers at BTG Pactual in São Paulo, most recently on MARS, their C#/.NET portfolio accounting, valuation and risk platform. Before that, backend services for the legal team in FastAPI and Python.
 
-The work I'm proudest of there was a nondeterministic valuation bug: the same inputs producing different outputs across runs, traced through six layers of a legacy pricing engine, fixed in 19 lines, with a database-free regression suite so it couldn't come back silently.
-
 ## Now
 
 - Rebuilding algorithms fluency ahead of new grad interviews
