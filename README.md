@@ -1,4 +1,4 @@
-# Gabriel Saccoccio
+# Gabriel Salvatore Saccoccio
 
 CS and Economics at Allegheny College, graduating May 2027. Brazilian, based in Pennsylvania.
 
