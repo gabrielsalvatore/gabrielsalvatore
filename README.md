@@ -16,7 +16,7 @@ Two summers at BTG Pactual in São Paulo, most recently on MARS, their C#/.NET p
 
 ## Stack
 
-Python, C#/.NET, TypeScript, Java, Go, SQL
+Python, C#/.NET, TypeScript, JavaScript, Go, SQL
 FastAPI, React, Next.js, Node.js
 AWS, Azure, Docker, Kubernetes, PostgreSQL, MongoDB
 
